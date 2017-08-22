@@ -1,0 +1,17 @@
+C:/Users/files/Source/Code/RoaringCLI/VisualStudio/src/roaring.dir/RelWithDebInfo/array_util.obj
+C:/Users/files/Source/Code/RoaringCLI/VisualStudio/src/roaring.dir/RelWithDebInfo/bitset_util.obj
+C:/Users/files/Source/Code/RoaringCLI/VisualStudio/src/roaring.dir/RelWithDebInfo/array.obj
+C:/Users/files/Source/Code/RoaringCLI/VisualStudio/src/roaring.dir/RelWithDebInfo/bitset.obj
+C:/Users/files/Source/Code/RoaringCLI/VisualStudio/src/roaring.dir/RelWithDebInfo/containers.obj
+C:/Users/files/Source/Code/RoaringCLI/VisualStudio/src/roaring.dir/RelWithDebInfo/convert.obj
+C:/Users/files/Source/Code/RoaringCLI/VisualStudio/src/roaring.dir/RelWithDebInfo/mixed_intersection.obj
+C:/Users/files/Source/Code/RoaringCLI/VisualStudio/src/roaring.dir/RelWithDebInfo/mixed_union.obj
+C:/Users/files/Source/Code/RoaringCLI/VisualStudio/src/roaring.dir/RelWithDebInfo/mixed_equal.obj
+C:/Users/files/Source/Code/RoaringCLI/VisualStudio/src/roaring.dir/RelWithDebInfo/mixed_subset.obj
+C:/Users/files/Source/Code/RoaringCLI/VisualStudio/src/roaring.dir/RelWithDebInfo/mixed_negation.obj
+C:/Users/files/Source/Code/RoaringCLI/VisualStudio/src/roaring.dir/RelWithDebInfo/mixed_xor.obj
+C:/Users/files/Source/Code/RoaringCLI/VisualStudio/src/roaring.dir/RelWithDebInfo/mixed_andnot.obj
+C:/Users/files/Source/Code/RoaringCLI/VisualStudio/src/roaring.dir/RelWithDebInfo/run.obj
+C:/Users/files/Source/Code/RoaringCLI/VisualStudio/src/roaring.dir/RelWithDebInfo/roaring.obj
+C:/Users/files/Source/Code/RoaringCLI/VisualStudio/src/roaring.dir/RelWithDebInfo/roaring_priority_queue.obj
+C:/Users/files/Source/Code/RoaringCLI/VisualStudio/src/roaring.dir/RelWithDebInfo/roaring_array.obj
