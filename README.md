@@ -1,4 +1,4 @@
-# CRoaring [![Build Status](https://travis-ci.org/RoaringBitmap/CRoaring.png)](https://travis-ci.org/RoaringBitmap/CRoaring)
+# CRoaring 
 Roaring bitmaps in C (and C++)
 
 # Introduction
@@ -473,7 +473,7 @@ Tom Cornebize wrote a Python wrapper available at https://github.com/Ezibenroc/P
 
 # C# Wrapper
 
-Brandon Smith wrote a C# wrapper available at https://github.com/RogueException/CRoaring.Net (works for Windows and Linux under x64 processors)
+There is a C# wrapper available at [https://github.com/RogueException/CRoaring.Net](https://github.com/k-wojcik/Roaring.Net) (works for Windows and Linux under x64 processors)
 
 
 # Go (golang) Wrapper
